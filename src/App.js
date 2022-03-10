@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React..modified
+          lets practice git
         </a>
       </header>
     </div>
